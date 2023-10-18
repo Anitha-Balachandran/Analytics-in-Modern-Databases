@@ -1,2 +1,3 @@
 # Analytics-in-Modern-Databases
 Database Analytics: Exploring Schemas, SQL, and OLAP
+This project focuses into a range of advanced database analytics techniques like Oracle Cloud. It explores the intricacies of data warehousing schemas, such as the Star and Snowflake designs, applied in real-world scenarios. A comprehensive look into SQL-based analytics is offered, including JOIN queries. The project also provides insights into the advantages of using columnar databases in data warehousing, as well as a comparative analysis of various OLAP tools prevalent in the industry. In sum, it serves as an extensive guide to modern database analytics methodologies and tools, offering actionable insights for industry professionals.
